@@ -1,0 +1,251 @@
+Transaction_ID,Date,Account_ID,Account_Type,Transaction_Type,Amount,Channel,Status
+TXN0139,2026-01-01,ACC1015,Current,Deposit,13557.7,Online,Failed
+TXN0028,2026-01-01,ACC1014,Current,Transfer,2887.24,Branch,Success
+TXN0154,2026-01-02,ACC1018,Savings,Deposit,5427.46,Online,Success
+TXN0014,2026-01-03,ACC1030,Savings,Transfer,12981.31,Branch,Success
+TXN0123,2026-01-03,ACC1019,Savings,Transfer,6239.18,Mobile App,Success
+TXN0075,2026-01-04,ACC1028,Current,Deposit,9889.38,Mobile App,Success
+TXN0193,2026-01-06,ACC1034,Current,Transfer,7860.53,Mobile App,Success
+TXN0140,2026-01-07,ACC1035,Savings,Deposit,10085.34,ATM,Success
+TXN0002,2026-01-07,ACC1003,Savings,Deposit,7827.65,Mobile App,Success
+TXN0135,2026-01-09,ACC1054,Current,Withdrawal,14297.06,Online,Success
+TXN0171,2026-01-11,ACC1033,Current,Withdrawal,14336.36,Online,Success
+TXN0203,2026-01-11,ACC1046,Current,Withdrawal,5597.43,Mobile App,Success
+TXN0042,2026-01-11,ACC1020,Current,Transfer,14596.85,Online,Success
+TXN0097,2026-01-11,ACC1018,Current,Withdrawal,1666.41,Branch,Success
+TXN0229,2026-01-12,ACC1057,Current,Withdrawal,6347.18,ATM,Success
+TXN0141,2026-01-14,ACC1051,Savings,Deposit,3026.57,Mobile App,Success
+TXN0151,2026-01-14,ACC1056,Current,Transfer,6664.62,Branch,Success
+TXN0236,2026-01-14,ACC1042,Current,Transfer,3556.72,Online,Success
+TXN0024,2026-01-14,ACC1043,Savings,Withdrawal,7271.86,ATM,Success
+TXN0249,2026-01-16,ACC1013,Savings,Deposit,4638.52,Online,Success
+TXN0150,2026-01-16,ACC1007,Current,Withdrawal,2386.67,ATM,Success
+TXN0239,2026-01-16,ACC1050,Savings,Withdrawal,12801.47,Online,Success
+TXN0145,2026-01-17,ACC1029,Savings,Deposit,9320.31,Branch,Success
+TXN0018,2026-01-18,ACC1037,Savings,Deposit,7546.86,Online,Success
+TXN0194,2026-01-18,ACC1025,Current,Deposit,735.51,Online,Success
+TXN0006,2026-01-18,ACC1040,Savings,Withdrawal,3288.18,Online,Success
+TXN0115,2026-01-18,ACC1057,Savings,Transfer,1020.54,Branch,Failed
+TXN0149,2026-01-18,ACC1017,Savings,Deposit,13883.28,ATM,Success
+TXN0138,2026-01-18,ACC1022,Savings,Deposit,8686.38,Online,Success
+TXN0021,2026-01-19,ACC1002,Savings,Deposit,3693.15,Online,Success
+TXN0056,2026-01-19,ACC1010,Current,Deposit,7389.48,Mobile App,Success
+TXN0095,2026-01-19,ACC1015,Savings,Transfer,12486.15,Online,Success
+TXN0008,2026-01-19,ACC1014,Savings,Transfer,10411.44,Online,Success
+TXN0034,2026-01-19,ACC1026,Savings,Withdrawal,7129.76,Mobile App,Success
+TXN0164,2026-01-21,ACC1055,Current,Withdrawal,6306.52,Branch,Success
+TXN0201,2026-01-22,ACC1032,Current,Transfer,982.3000000000002,ATM,Success
+TXN0213,2026-01-23,ACC1024,Savings,Transfer,2381.68,Branch,Success
+TXN0137,2026-01-24,ACC1013,Savings,Transfer,100.0,ATM,Success
+TXN0155,2026-01-24,ACC1026,Savings,Transfer,14591.25,Mobile App,Success
+TXN0218,2026-01-24,ACC1036,Savings,Withdrawal,9409.21,Online,Success
+TXN0004,2026-01-25,ACC1014,Current,Deposit,1844.81,Branch,Success
+TXN0148,2026-01-25,ACC1015,Current,Transfer,6281.59,Mobile App,Success
+TXN0112,2026-01-26,ACC1003,Current,Transfer,5313.92,ATM,Success
+TXN0184,2026-01-27,ACC1004,Savings,Transfer,8540.84,Branch,Success
+TXN0152,2026-01-28,ACC1037,Current,Deposit,7491.75,Branch,Success
+TXN0105,2026-01-30,ACC1020,Current,Withdrawal,1851.53,ATM,Success
+TXN0165,2026-01-30,ACC1015,Savings,Deposit,7902.01,Branch,Success
+TXN0160,2026-01-31,ACC1014,Savings,Transfer,4696.98,Mobile App,Success
+TXN0020,2026-01-31,ACC1043,Savings,Withdrawal,8004.85,Online,Success
+TXN0096,2026-02-01,ACC1039,Current,Withdrawal,4684.85,Branch,Success
+TXN0209,2026-02-01,ACC1040,Savings,Transfer,7622.4,ATM,Success
+TXN0051,2026-02-01,ACC1043,Current,Withdrawal,5547.850000000002,Branch,Success
+TXN0104,2026-02-01,ACC1009,Savings,Withdrawal,10624.63,Online,Success
+TXN0071,2026-02-02,ACC1016,Current,Deposit,2709.54,ATM,Success
+TXN0177,2026-02-02,ACC1006,Savings,Withdrawal,11979.1,Mobile App,Success
+TXN0215,2026-02-02,ACC1042,Savings,Withdrawal,1677.449999999999,Online,Success
+TXN0195,2026-02-04,ACC1041,Savings,Withdrawal,11471.84,Branch,Success
+TXN0037,2026-02-04,ACC1036,Current,Withdrawal,3035.0999999999985,ATM,Success
+TXN0001,2026-02-05,ACC1041,Savings,Transfer,4050.93,ATM,Success
+TXN0125,2026-02-05,ACC1044,Savings,Transfer,10372.4,ATM,Success
+TXN0012,2026-02-05,ACC1028,Current,Withdrawal,3680.15,ATM,Success
+TXN0011,2026-02-05,ACC1026,Savings,Withdrawal,2571.64,Branch,Success
+TXN0119,2026-02-06,ACC1025,Savings,Deposit,13736.02,Mobile App,Success
+TXN0244,2026-02-07,ACC1035,Current,Transfer,12366.47,ATM,Success
+TXN0089,2026-02-08,ACC1026,Savings,Withdrawal,10453.54,Branch,Success
+TXN0109,2026-02-08,ACC1054,Current,Transfer,7599.79,Mobile App,Success
+TXN0238,2026-02-08,ACC1045,Current,Deposit,5048.54,Online,Success
+TXN0113,2026-02-09,ACC1030,Savings,Deposit,13128.53,Mobile App,Success
+TXN0003,2026-02-10,ACC1038,Current,Transfer,11502.71,Branch,Success
+TXN0248,2026-02-10,ACC1050,Current,Transfer,2500.629999999999,Mobile App,Success
+TXN0173,2026-02-10,ACC1046,Current,Withdrawal,8079.85,Branch,Success
+TXN0225,2026-02-10,ACC1025,Current,Withdrawal,14458.94,Branch,Success
+TXN0183,2026-02-11,ACC1019,Savings,Withdrawal,6570.58,Online,Success
+TXN0233,2026-02-11,ACC1058,Current,Deposit,9389.49,Branch,Success
+TXN0163,2026-02-13,ACC1027,Current,Withdrawal,14509.9,Branch,Success
+TXN0118,2026-02-13,ACC1016,Savings,Withdrawal,10553.01,ATM,Success
+TXN0054,2026-02-13,ACC1029,Savings,Withdrawal,12009.16,Branch,Success
+TXN0058,2026-02-15,ACC1056,Current,Deposit,6664.62,ATM,Success
+TXN0110,2026-02-18,ACC1036,Savings,Withdrawal,100.0,Mobile App,Success
+TXN0080,2026-02-18,ACC1045,Savings,Withdrawal,7991.1,Online,Success
+TXN0182,2026-02-19,ACC1020,Current,Transfer,13607.63,Mobile App,Success
+TXN0197,2026-02-21,ACC1005,Savings,Transfer,1036.26,Online,Success
+TXN0222,2026-02-22,ACC1045,Current,Withdrawal,7521.64,Online,Success
+TXN0053,2026-02-23,ACC1020,Current,Transfer,4906.19,Branch,Success
+TXN0019,2026-02-24,ACC1036,Savings,Withdrawal,9295.61,Branch,Success
+TXN0009,2026-02-26,ACC1025,Current,Transfer,10478.35,ATM,Success
+TXN0046,2026-02-27,ACC1030,Savings,Transfer,13134.18,Online,Success
+TXN0093,2026-03-01,ACC1027,Current,Withdrawal,4723.26,Branch,Success
+TXN0205,2026-03-02,ACC1039,Current,Withdrawal,2330.34,Branch,Success
+TXN0027,2026-03-02,ACC1035,Savings,Transfer,13932.32,Mobile App,Success
+TXN0055,2026-03-02,ACC1041,Current,Deposit,14304.0,Online,Success
+TXN0092,2026-03-03,ACC1014,Savings,Deposit,1677.22,ATM,Success
+TXN0057,2026-03-04,ACC1037,Savings,Withdrawal,7668.47,ATM,Success
+TXN0221,2026-03-04,ACC1041,Current,Withdrawal,3809.370000000001,Branch,Success
+TXN0224,2026-03-05,ACC1007,Savings,Withdrawal,4378.34,ATM,Success
+TXN0088,2026-03-06,ACC1031,Current,Deposit,14499.72,ATM,Success
+TXN0166,2026-03-07,ACC1053,Savings,Deposit,1990.67,Online,Success
+TXN0079,2026-03-08,ACC1055,Current,Withdrawal,5644.96,Branch,Success
+TXN0033,2026-03-08,ACC1027,Savings,Withdrawal,5087.36,Branch,Success
+TXN0048,2026-03-09,ACC1008,Savings,Deposit,8918.55,ATM,Success
+TXN0208,2026-03-09,ACC1012,Current,Withdrawal,6876.75,Mobile App,Success
+TXN0015,2026-03-09,ACC1022,Savings,Withdrawal,7078.99,ATM,Success
+TXN0035,2026-03-09,ACC1037,Savings,Deposit,3590.74,Branch,Success
+TXN0108,2026-03-10,ACC1051,Savings,Deposit,11921.9,Branch,Success
+TXN0106,2026-03-11,ACC1010,Current,Transfer,7878.64,Mobile App,Failed
+TXN0243,2026-03-12,ACC1032,Current,Deposit,14038.66,ATM,Success
+TXN0207,2026-03-13,ACC1037,Savings,Withdrawal,5058.59,ATM,Success
+TXN0099,2026-03-13,ACC1049,Savings,Withdrawal,9946.89,Mobile App,Success
+TXN0181,2026-03-14,ACC1024,Current,Deposit,6940.88,Online,Success
+TXN0217,2026-03-14,ACC1046,Savings,Transfer,100.0,Branch,Success
+TXN0170,2026-03-15,ACC1020,Savings,Deposit,5846.7,ATM,Success
+TXN0120,2026-03-15,ACC1030,Savings,Deposit,12167.18,ATM,Success
+TXN0126,2026-03-17,ACC1029,Current,Withdrawal,2405.47,Mobile App,Success
+TXN0117,2026-03-17,ACC1020,Current,Deposit,12044.08,Branch,Success
+TXN0234,2026-03-18,ACC1033,Current,Withdrawal,10776.73,ATM,Success
+TXN0242,2026-03-18,ACC1018,Current,Deposit,14607.2,Online,Success
+TXN0074,2026-03-19,ACC1045,Savings,Deposit,10609.3,ATM,Success
+TXN0216,2026-03-19,ACC1059,Savings,Transfer,8012.48,Online,Success
+TXN0017,2026-03-20,ACC1032,Savings,Transfer,5776.45,ATM,Success
+TXN0083,2026-03-20,ACC1048,Current,Withdrawal,7079.31,Online,Success
+TXN0226,2026-03-20,ACC1011,Current,Withdrawal,7732.02,ATM,Success
+TXN0030,2026-03-22,ACC1014,Savings,Withdrawal,8361.83,ATM,Success
+TXN0162,2026-03-22,ACC1048,Current,Deposit,13856.86,Mobile App,Success
+TXN0210,2026-03-23,ACC1058,Current,Transfer,11419.910000000002,ATM,Success
+TXN0100,2026-03-24,ACC1032,Savings,Withdrawal,6421.05,Online,Success
+TXN0202,2026-03-25,ACC1053,Current,Deposit,1987.67,Branch,Success
+TXN0068,2026-03-25,ACC1009,Savings,Deposit,4272.27,Mobile App,Success
+TXN0114,2026-03-26,ACC1017,Current,Withdrawal,9922.63,Branch,Success
+TXN0232,2026-03-27,ACC1026,Current,Deposit,2487.03,Mobile App,Success
+TXN0044,2026-03-27,ACC1052,Current,Transfer,859.4,Online,Success
+TXN0128,2026-03-28,ACC1053,Savings,Transfer,4779.55,Mobile App,Failed
+TXN0172,2026-03-29,ACC1031,Savings,Transfer,7032.59,Online,Success
+TXN0038,2026-03-29,ACC1048,Savings,Deposit,9270.03,Branch,Success
+TXN0124,2026-04-01,ACC1058,Savings,Transfer,9302.44,Online,Success
+TXN0227,2026-04-01,ACC1026,Savings,Transfer,2870.149999999994,ATM,Success
+TXN0204,2026-04-04,ACC1051,Savings,Deposit,9743.93,ATM,Success
+TXN0231,2026-04-04,ACC1007,Savings,Transfer,5416.74,Online,Success
+TXN0082,2026-04-05,ACC1015,Current,Deposit,10127.42,Branch,Success
+TXN0041,2026-04-05,ACC1057,Savings,Deposit,1022.41,Mobile App,Success
+TXN0206,2026-04-05,ACC1037,Current,Deposit,7023.88,Mobile App,Success
+TXN0016,2026-04-06,ACC1020,Savings,Withdrawal,3384.21,ATM,Success
+TXN0073,2026-04-07,ACC1007,Current,Transfer,8849.05,Online,Success
+TXN0005,2026-04-07,ACC1052,Savings,Withdrawal,2309.98,Branch,Success
+TXN0122,2026-04-08,ACC1013,Current,Transfer,100.0,Branch,Failed
+TXN0111,2026-04-08,ACC1050,Current,Deposit,7358.16,Online,Success
+TXN0200,2026-04-09,ACC1024,Current,Withdrawal,6876.18,Online,Success
+TXN0159,2026-04-12,ACC1038,Savings,Withdrawal,1158.55,ATM,Success
+TXN0223,2026-04-13,ACC1046,Savings,Transfer,100.0,Branch,Success
+TXN0066,2026-04-14,ACC1028,Savings,Withdrawal,10198.67,Mobile App,Success
+TXN0132,2026-04-15,ACC1041,Savings,Transfer,4881.76,Online,Success
+TXN0063,2026-04-15,ACC1025,Current,Transfer,1431.32,Mobile App,Success
+TXN0043,2026-04-15,ACC1043,Savings,Transfer,13319.95,Online,Success
+TXN0247,2026-04-16,ACC1058,Current,Withdrawal,1261.12,Mobile App,Success
+TXN0250,2026-04-17,ACC1047,Savings,Deposit,13861.33,ATM,Failed
+TXN0065,2026-04-18,ACC1023,Savings,Withdrawal,13428.8,Mobile App,Success
+TXN0069,2026-04-18,ACC1049,Current,Deposit,14292.46,ATM,Success
+TXN0052,2026-04-18,ACC1021,Current,Deposit,2345.67,Online,Success
+TXN0013,2026-04-19,ACC1056,Savings,Withdrawal,9834.21,Mobile App,Success
+TXN0039,2026-04-19,ACC1017,Current,Transfer,1838.33,ATM,Success
+TXN0158,2026-04-21,ACC1027,Savings,Transfer,2150.35,Branch,Success
+TXN0076,2026-04-22,ACC1024,Savings,Transfer,10755.98,Branch,Success
+TXN0185,2026-04-22,ACC1011,Savings,Transfer,2636.56,Online,Success
+TXN0040,2026-04-24,ACC1050,Current,Transfer,2842.94,ATM,Success
+TXN0103,2026-04-24,ACC1013,Savings,Withdrawal,1550.2699999999986,Online,Success
+TXN0060,2026-04-25,ACC1047,Savings,Withdrawal,13649.39,Mobile App,Success
+TXN0230,2026-04-26,ACC1013,Current,Deposit,6102.06,ATM,Success
+TXN0007,2026-04-27,ACC1006,Current,Transfer,6011.83,Online,Success
+TXN0240,2026-04-28,ACC1043,Current,Withdrawal,14371.94,Branch,Success
+TXN0078,2026-04-29,ACC1054,Current,Deposit,7036.63,Branch,Success
+TXN0045,2026-05-01,ACC1051,Savings,Withdrawal,1061.51,Online,Success
+TXN0023,2026-05-02,ACC1047,Current,Withdrawal,7353.73,Online,Success
+TXN0245,2026-05-03,ACC1046,Savings,Transfer,100.0,Online,Success
+TXN0178,2026-05-05,ACC1002,Savings,Deposit,3605.79,Online,Failed
+TXN0081,2026-05-06,ACC1032,Current,Deposit,7403.35,ATM,Success
+TXN0087,2026-05-06,ACC1004,Savings,Withdrawal,2331.05,ATM,Success
+TXN0212,2026-05-07,ACC1008,Savings,Transfer,3932.67,Branch,Success
+TXN0186,2026-05-09,ACC1057,Current,Deposit,1272.22,Online,Success
+TXN0127,2026-05-09,ACC1009,Current,Transfer,5804.93,Online,Success
+TXN0049,2026-05-11,ACC1023,Savings,Deposit,9290.03,Mobile App,Success
+TXN0031,2026-05-11,ACC1033,Savings,Withdrawal,1324.75,Online,Success
+TXN0102,2026-05-12,ACC1017,Savings,Transfer,6360.54,Mobile App,Success
+TXN0061,2026-05-14,ACC1049,Current,Withdrawal,11604.3,Online,Success
+TXN0143,2026-05-14,ACC1040,Current,Transfer,13071.22,Mobile App,Success
+TXN0146,2026-05-16,ACC1038,Current,Deposit,14922.1,Mobile App,Success
+TXN0086,2026-05-17,ACC1019,Savings,Deposit,705.15,Branch,Success
+TXN0228,2026-05-18,ACC1039,Savings,Withdrawal,7323.51,ATM,Success
+TXN0050,2026-05-18,ACC1013,Savings,Transfer,524.52,Branch,Success
+TXN0025,2026-05-18,ACC1022,Current,Deposit,3278.06,Online,Success
+TXN0133,2026-05-18,ACC1003,Savings,Withdrawal,1909.28,Mobile App,Success
+TXN0062,2026-05-19,ACC1005,Savings,Deposit,5369.79,Online,Success
+TXN0179,2026-05-19,ACC1010,Savings,Transfer,1966.54,Branch,Success
+TXN0036,2026-05-20,ACC1057,Current,Deposit,6853.68,ATM,Success
+TXN0136,2026-05-20,ACC1016,Current,Deposit,10442.36,ATM,Success
+TXN0198,2026-05-20,ACC1021,Current,Withdrawal,14842.28,Branch,Success
+TXN0101,2026-05-21,ACC1045,Savings,Withdrawal,6306.56,Mobile App,Success
+TXN0026,2026-05-21,ACC1018,Savings,Transfer,1593.08,ATM,Success
+TXN0189,2026-05-21,ACC1058,Current,Deposit,12606.96,ATM,Success
+TXN0029,2026-05-23,ACC1051,Current,Withdrawal,14381.11,Online,Success
+TXN0161,2026-05-24,ACC1012,Current,Withdrawal,3836.61,ATM,Success
+TXN0131,2026-05-24,ACC1024,Current,Deposit,862.86,Online,Success
+TXN0219,2026-05-25,ACC1040,Savings,Withdrawal,8828.500000000002,ATM,Success
+TXN0091,2026-05-26,ACC1029,Savings,Withdrawal,6718.03,ATM,Success
+TXN0032,2026-05-26,ACC1005,Savings,Deposit,2238.36,ATM,Success
+TXN0156,2026-05-26,ACC1022,Savings,Deposit,5203.55,ATM,Success
+TXN0010,2026-05-26,ACC1003,Current,Withdrawal,1459.73,Online,Success
+TXN0220,2026-05-27,ACC1042,Current,Deposit,3556.72,ATM,Success
+TXN0098,2026-05-28,ACC1002,Savings,Transfer,12621.4,Branch,Success
+TXN0214,2026-05-28,ACC1046,Savings,Withdrawal,10921.839999999997,Online,Failed
+TXN0191,2026-05-28,ACC1058,Savings,Withdrawal,9663.35,Online,Success
+TXN0134,2026-05-31,ACC1043,Savings,Withdrawal,100.0,Mobile App,Success
+TXN0169,2026-06-01,ACC1005,Savings,Withdrawal,12046.78,Branch,Success
+TXN0142,2026-06-01,ACC1048,Savings,Withdrawal,5749.57,Mobile App,Success
+TXN0077,2026-06-01,ACC1059,Current,Withdrawal,6815.83,Branch,Success
+TXN0085,2026-06-02,ACC1031,Current,Withdrawal,11523.01,ATM,Success
+TXN0107,2026-06-03,ACC1016,Savings,Deposit,3263.85,ATM,Success
+TXN0072,2026-06-05,ACC1014,Savings,Deposit,5848.98,Online,Failed
+TXN0241,2026-06-06,ACC1056,Current,Withdrawal,100.0,Online,Failed
+TXN0246,2026-06-07,ACC1018,Savings,Withdrawal,2490.46,Online,Success
+TXN0090,2026-06-08,ACC1016,Savings,Transfer,9291.61,Mobile App,Success
+TXN0153,2026-06-09,ACC1018,Savings,Transfer,12754.75,Branch,Success
+TXN0190,2026-06-09,ACC1016,Current,Deposit,6587.47,ATM,Success
+TXN0094,2026-06-10,ACC1030,Savings,Deposit,4336.04,Mobile App,Success
+TXN0167,2026-06-10,ACC1049,Current,Deposit,14293.74,Mobile App,Success
+TXN0174,2026-06-11,ACC1025,Current,Deposit,9169.35,ATM,Success
+TXN0047,2026-06-14,ACC1018,Current,Transfer,4547.31,Branch,Success
+TXN0168,2026-06-14,ACC1049,Current,Withdrawal,13289.7,Branch,Success
+TXN0147,2026-06-16,ACC1028,Savings,Transfer,12865.49,Mobile App,Success
+TXN0187,2026-06-16,ACC1006,Current,Deposit,13996.98,Online,Success
+TXN0070,2026-06-16,ACC1048,Savings,Transfer,5574.42,ATM,Success
+TXN0199,2026-06-17,ACC1042,Current,Withdrawal,11822.2,Branch,Success
+TXN0175,2026-06-18,ACC1036,Savings,Deposit,10994.14,Branch,Success
+TXN0157,2026-06-19,ACC1049,Current,Withdrawal,4445.49,Mobile App,Success
+TXN0067,2026-06-19,ACC1040,Savings,Transfer,9082.45,ATM,Success
+TXN0059,2026-06-20,ACC1059,Current,Withdrawal,12120.54,Mobile App,Success
+TXN0192,2026-06-20,ACC1001,Savings,Deposit,6540.23,Branch,Success
+TXN0022,2026-06-21,ACC1003,Current,Deposit,3951.07,Online,Success
+TXN0129,2026-06-22,ACC1010,Current,Deposit,10306.69,Branch,Success
+TXN0130,2026-06-22,ACC1026,Current,Withdrawal,7094.4,Mobile App,Success
+TXN0237,2026-06-24,ACC1047,Savings,Transfer,2642.75,ATM,Success
+TXN0144,2026-06-25,ACC1002,Savings,Withdrawal,6323.45,Mobile App,Success
+TXN0121,2026-06-26,ACC1023,Current,Deposit,14449.42,Mobile App,Success
+TXN0084,2026-06-26,ACC1013,Savings,Transfer,14287.72,Online,Success
+TXN0235,2026-06-26,ACC1044,Savings,Withdrawal,4961.33,Mobile App,Success
+TXN0180,2026-06-27,ACC1040,Savings,Withdrawal,2852.58,Mobile App,Success
+TXN0196,2026-06-28,ACC1053,Current,Transfer,10427.9,Online,Success
+TXN0064,2026-06-28,ACC1014,Savings,Withdrawal,11662.04,Mobile App,Success
+TXN0176,2026-06-28,ACC1043,Current,Deposit,14531.6,Online,Success
+TXN0211,2026-06-29,ACC1019,Savings,Transfer,100.0,Branch,Success
+TXN0116,2026-06-30,ACC1048,Savings,Transfer,11525.36,Mobile App,Success
+TXN0188,2026-06-30,ACC1019,Current,Withdrawal,3032.129999999999,Mobile App,Success
